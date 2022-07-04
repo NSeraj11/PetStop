@@ -140,12 +140,10 @@ body{
 }
 
 .hero-text button{
-  
   background-color: #F3DFA2;
   color: #006494;
   border: 0;
   padding: 14px 80px 14px 65px;
-  background-repeat: no-repeat;
   cursor: pointer;
   font-weight: 700;
   font-size: 15px;
